@@ -1,0 +1,21 @@
+# Propiedades de la Redaccion
+
+## 1. Claridad
+   - **Definicion**: Facilidad para entender el mensaje.
+   - **Ejemplo**: "La casa es grande" en lugar de "La vivienda presenta un tamaño considerable."
+
+## 2. Coherencia
+   - **Definicion**: Relacion entre las ideas, que permite una lectura fluida.
+   - **Ejemplo**: En un texto sobre deportes, no se menciona de repente un tema de cocina.
+
+## 3. Concision
+   - **Definicion**: Expresion de ideas de manera breve y precisa.
+   - **Ejemplo**: "El perro corre" en lugar de "El perro que tiene un pelaje marron corre rapidamente por el parque."
+
+## 4. Correccion
+   - **Definicion**: Uso adecuado de la gramática y ortografía.
+   - **Ejemplo**: "Nosotros vamos al cine" es correcto, "Nosotros va al cine" es incorrecto.
+
+## 5. Originalidad
+   - **Definicion**: Capacidad de presentar ideas propias y únicas.
+   - **Ejemplo**: Escribir un cuento basado en una experiencia personal en lugar de repetir una historia conocida.
